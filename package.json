@@ -51,6 +51,10 @@
     "dist"
   ],
   "dependencies": {
-    "survey-react": "^1.7.6"
+    "jquery": "^3.5.1",
+    "select2": "^4.0.13",
+    "survey-creator": "^1.7.6",
+    "survey-react": "^1.7.6",
+    "surveyjs-widgets": "^1.7.6"
   }
 }
